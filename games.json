@@ -3,5 +3,45 @@
         "name": "Monkey Mart",
         "slug": "monkey-mart",
         "image": "/cache/data/image/game/monkey-mart/monkeymartgame3-m186x186.webp"
+    },
+    {
+        "name": "Fast Food Simulator",
+        "slug": "fast-food-simulator",
+        "image": "/cache/data/image/no_image-m186x186.webp"
+    },
+    {
+        "name": "Supermarket Master",
+        "slug": "supermarket-master",
+        "image": "/cache/data/image/game/supermarket-master/supermarket-master-1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Bunny Market",
+        "slug": "bunny-market",
+        "image": "/cache/data/image/no_image-m186x186.webp"
+    },
+    {
+        "name": "My Perfect Hotel",
+        "slug": "my-perfect-hotel",
+        "image": "/cache/data/image/no_image-m186x186.webp"
+    },
+    {
+        "name": "Spiritstead",
+        "slug": "spiritstead",
+        "image": "/cache/data/image/no_image-m186x186.webp"
+    },
+    {
+        "name": "Peckin' Pixels",
+        "slug": "peckin-pixels",
+        "image": "/cache/data/image/no_image-m186x186.webp"
+    },
+    {
+        "name": "Idle Furniture Tycoon",
+        "slug": "idle-furniture-tycoon",
+        "image": "/cache/data/image/no_image-m186x186.webp"
+    },
+    {
+        "name": "Laundry Simulator",
+        "slug": "laundry-simulator",
+        "image": "/cache/data/image/no_image-m186x186.webp"
     }
 ]
